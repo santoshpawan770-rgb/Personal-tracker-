@@ -1,0 +1,11 @@
+{
+"name": "Personal Tracker",
+"short_name": "Tracker",
+"description": "Your personal daily routine tracker",
+"start_url": "./index.html",
+"scope": "./",
+"display": "standalone",
+"background_color": "#0b1020",
+"theme_color": "#536dfe",
+"icons": []
+}
